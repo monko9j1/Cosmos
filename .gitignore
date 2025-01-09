@@ -21,15 +21,11 @@ checkpoints/*
 # Data types
 *.jit
 *.pt
-*.png
 *.hdr
-*.jpg
-*.jpeg
 *.webp
 *.pgm
 *.tiff
 *.tif
-*.mp4
 *.tar
 *.tar.gz
 *.gz
@@ -42,7 +38,6 @@ checkpoints/*
 *.exe
 *.dll
 *.swp
-*.vscode
 *.ipynb
 *.DS_Store
 *.pyc
@@ -245,3 +240,5 @@ manifest.json
 wandb/
 onelogger.err
 onelogger.log
+temp_auto_push.bat
+temp_interactive_push.bat
